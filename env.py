@@ -1,0 +1,1 @@
+API_OPENAI="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"
